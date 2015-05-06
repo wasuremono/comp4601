@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Vivado v2014.4 (64-bit)
+# SW Build 1071353 on Tue Nov 18 18:24:04 MST 2014
+# IP Build 1070531 on Tue Nov 18 01:10:18 MST 2014
+# Start of session at: Fri Apr 17 00:35:46 2015
+# Process ID: 9944
+# Log file: i:/Labs/ip_repo/bus_interface_1.0/bus_interface_v1_0_project/bus_interface_v1_0_project.runs/synth_1/bus_interface_v1_0.vds
+# Journal file: i:/Labs/ip_repo/bus_interface_1.0/bus_interface_v1_0_project/bus_interface_v1_0_project.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source bus_interface_v1_0.tcl
